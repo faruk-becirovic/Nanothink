@@ -32,7 +32,7 @@ body{
 
 .main-title h1{
     font-size: 7rem;
-    text-transform: uppercase;
+    text-transform: none;
     font-weight: 800;
     color: #555;
 }
@@ -40,7 +40,7 @@ body{
 .main-title h2{
     font-size: 4rem;
     font-weight: 300;
-    text-transform: uppercase;
+    text-transform: none;
 }
 
 .svg-img{
